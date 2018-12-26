@@ -9,3 +9,6 @@ A skript version of the meme-server made by dank memer.
 - Skript: https://github.com/SkriptLang/Skript/releases
 - A brain: https://en.wikipedia.org/wiki/Human_brain
 - A decent server (or VPS): https://sparkedhost.us
+
+# What you might need
+- ~~Someone to spoon feed you~~
